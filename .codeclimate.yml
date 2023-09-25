@@ -3,3 +3,6 @@ plugins:
   tflint:
     enabled: true
     channel: "beta"
+  tfsec:
+    enabled: true
+    channel: "beta"
